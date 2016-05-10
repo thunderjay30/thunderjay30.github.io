@@ -19,3 +19,9 @@ html {
 p {
     color: #cccc00;
 }
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:60px;
+}
